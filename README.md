@@ -116,3 +116,4 @@ If you find our work helpful for your research. Please consider citing our paper
 ```
 ## References
 Code is built based on [HAIS](https://github.com/hustvl/HAIS), [PointGroup](https://github.com/dvlab-research/PointGroup), and [spconv](https://github.com/traveller59/spconv)
+# softgroup_SW
